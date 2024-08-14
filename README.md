@@ -1,7 +1,7 @@
-This is simple console game based on c++ and Lua.
+This is a simple console game based on C++ and Lua.
 
-Work in progress ,but you could try single Win10 release executable.
+Work in progress, but you could try the Win10 release executable.
 
-**Build with cmake, g++ compiler and as Clion project. (static Lua library for scripting)**
+*Build with cmake, the g++ compiler, and as a Clion project. (static Lua library for scripting)*
 
 ![random battler](rndbtl.JPG)
