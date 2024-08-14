@@ -1,0 +1,3 @@
+D:/DEV/cpp/projects/RandomBattler/build/CMakeFiles/RandomBattler.dir
+D:/DEV/cpp/projects/RandomBattler/build/CMakeFiles/edit_cache.dir
+D:/DEV/cpp/projects/RandomBattler/build/CMakeFiles/rebuild_cache.dir

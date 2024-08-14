@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RandomBattler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/DEV/cpp/projects/RandomBattler/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RandomBattler">
+				<Option output="D:/DEV/cpp/projects/RandomBattler/build/RandomBattler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/DEV/cpp/projects/RandomBattler/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DEV/cpp/projects/RandomBattler/include"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0/backward"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 RandomBattler"/>
+					<CompileFile command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RandomBattler/fast">
+				<Option output="D:/DEV/cpp/projects/RandomBattler/build/RandomBattler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/DEV/cpp/projects/RandomBattler/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DEV/cpp/projects/RandomBattler/include"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include/c++/13.2.0/backward"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
+					<Add directory="C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 RandomBattler/fast"/>
+					<CompileFile command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/DEV/cpp/projects/RandomBattler/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/DEV/cpp/projects/RandomBattler/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/ucrt64/bin/mingw32-make.exe -f &quot;D:/DEV/cpp/projects/RandomBattler/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/src/Actions.cpp">
+			<Option target="RandomBattler"/>
+		</Unit>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/src/Actions.h">
+			<Option target="RandomBattler"/>
+		</Unit>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/src/HeroTemplate.cpp">
+			<Option target="RandomBattler"/>
+		</Unit>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/src/HeroTemplate.h">
+			<Option target="RandomBattler"/>
+		</Unit>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/src/Main.cpp">
+			<Option target="RandomBattler"/>
+		</Unit>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/src/TestScriptRunner.cpp">
+			<Option target="RandomBattler"/>
+		</Unit>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/src/TestScriptRunner.h">
+			<Option target="RandomBattler"/>
+		</Unit>
+		<Unit filename="D:/DEV/cpp/projects/RandomBattler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
